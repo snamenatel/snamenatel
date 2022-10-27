@@ -60,5 +60,5 @@
 
 <h3>📊 Most Used Language</h3>
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarkOne&show_icons=true&count_private=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snamenatel&show_icons=true&count_private=true&hide_border=true" />
 </div>
